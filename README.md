@@ -256,7 +256,7 @@ Display content that changes size dynamically with automatic height adjustment.
 Full TypeScript support is included. Import types as needed:
 
 ```tsx
-import { ReactIframe, ReactIframeProps } from 'react-iframe';
+import { ReactIframe, ReactIframeProps } from '@idimetrix/react-iframe';
 
 // Use the type for props
 const props: ReactIframeProps = {
