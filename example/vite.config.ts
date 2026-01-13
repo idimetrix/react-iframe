@@ -9,7 +9,8 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      'react-iframe': resolve(__dirname, '../src'),
+      '@idimetrix/react-iframe': resolve(__dirname, '../src'),
+      'react-iframe': resolve(__dirname, '../src'), // Backward compatibility
     },
   },
 });
