@@ -1,0 +1,39 @@
+# Source files
+src/
+example/
+*.ts
+*.tsx
+!*.d.ts
+
+# Config files
+tsconfig.json
+vite.config.ts
+.gitignore
+.cursorignore
+
+# Development files
+.vscode/
+.idea/
+*.log
+*.swp
+*.swo
+*~
+
+# Test files
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Build artifacts (keep dist/)
+*.map
+
+# Documentation (keep README.md and CHANGELOG.md)
+# CHANGELOG.md is included in package
+
+# Dependencies
+node_modules/
+
+# Misc
+.DS_Store
+.env*
