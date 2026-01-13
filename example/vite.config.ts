@@ -10,7 +10,6 @@ export default defineConfig({
   resolve: {
     alias: {
       '@idimetrix/react-iframe': resolve(__dirname, '../src'),
-      'react-iframe': resolve(__dirname, '../src'), // Backward compatibility
     },
   },
 });
