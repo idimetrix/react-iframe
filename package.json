@@ -43,12 +43,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/react-iframe.git"
+    "url": "https://github.com/idimetrix/react-iframe.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/react-iframe/issues"
+    "url": "https://github.com/idimetrix/react-iframe/issues"
   },
-  "homepage": "https://github.com/your-username/react-iframe#readme",
+  "homepage": "https://github.com/idimetrix/react-iframe#readme",
   "peerDependencies": {
     "react": "^19.0.0 || ^18.0.0 || ^17.0.0",
     "react-dom": "^19.0.0 || ^18.0.0 || ^17.0.0"
