@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback, memo, FC, ChangeEvent } from 'react';
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 import Counter from './components/Counter';
 import Form from './components/Form';
 import StyledBox from './components/StyledBox';

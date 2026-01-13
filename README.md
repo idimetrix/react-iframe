@@ -24,7 +24,7 @@
 ## 📦 Installation
 
 ```bash
-npm install @idimetrix/react-iframe
+npm install @dimetrix/react-iframe
 ```
 
 **Peer Dependencies:**
@@ -36,7 +36,7 @@ npm install @idimetrix/react-iframe
 ### Basic Usage
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 import MyComponent from './MyComponent';
 
 function App() {
@@ -54,7 +54,7 @@ function App() {
 ### Using Children
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 
 function App() {
   return (
@@ -115,7 +115,7 @@ All standard HTML iframe attributes are supported and passed through:
 ### Example 1: Basic Component Rendering
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 import Counter from './Counter';
 
 function App() {
@@ -134,7 +134,7 @@ function App() {
 ### Example 2: Passing Props to Component
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 import UserProfile from './UserProfile';
 
 function App() {
@@ -156,7 +156,7 @@ function App() {
 ### Example 3: Auto Height (Responsive)
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 import DynamicContent from './DynamicContent';
 
 function App() {
@@ -178,7 +178,7 @@ The `autoHeight` prop automatically adjusts the iframe height to match its conte
 ### Example 4: Advanced Configuration
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 import MyComponent from './MyComponent';
 
 function App() {
@@ -214,7 +214,7 @@ function App() {
 ### Example 5: Using Children with Render Props
 
 ```tsx
-import { ReactIframe } from '@idimetrix/react-iframe';
+import { ReactIframe } from '@dimetrix/react-iframe';
 
 function App() {
   return (
@@ -256,7 +256,7 @@ Display content that changes size dynamically with automatic height adjustment.
 Full TypeScript support is included. Import types as needed:
 
 ```tsx
-import { ReactIframe, ReactIframeProps } from '@idimetrix/react-iframe';
+import { ReactIframe, ReactIframeProps } from '@dimetrix/react-iframe';
 
 // Use the type for props
 const props: ReactIframeProps = {
