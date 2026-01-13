@@ -1,6 +1,6 @@
 {
   "name": "@dimetrix/react-iframe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fully configurable React component that renders React components inside an isolated iframe",
   "type": "module",
   "main": "./dist/index.js",
