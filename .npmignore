@@ -29,7 +29,7 @@ vite.config.ts
 *.map
 
 # Documentation (keep README.md and CHANGELOG.md)
-# CHANGELOG.md is included in package
+# README.md and CHANGELOG.md are included in package
 
 # Dependencies
 node_modules/

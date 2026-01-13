@@ -1,5 +1,5 @@
 {
-  "name": "react-iframe",
+  "name": "@idimetrix/react-iframe",
   "version": "1.0.0",
   "description": "A fully configurable React component that renders React components inside an isolated iframe",
   "type": "module",
