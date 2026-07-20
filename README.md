@@ -548,3 +548,7 @@ Made with ❤️ for the React community
 **[Report Bug](https://github.com/idimetrix/react-iframe/issues)** • **[Request Feature](https://github.com/idimetrix/react-iframe/issues)** • **[View on NPM](https://www.npmjs.com/package/@dimetrix/react-iframe)**
 
 </div>
+
+---
+
+Built by the team behind [Planoda](https://planoda.com/?utm_source=npm&utm_medium=referral&utm_campaign=react-iframe) — an AI-native work platform, currently pre-launch and building in public.
